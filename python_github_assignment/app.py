@@ -6,3 +6,10 @@ spending = float(spending)
 yearly_spending = spending * 12
 
 print(f"With your current monthly spending, you are on track to spend {yearly_spending} dollars this year!")
+
+try:
+    spending = float(spending)
+except ValueError:
+    print("Please enter a valid number for your spending.")
+    exit()
+
