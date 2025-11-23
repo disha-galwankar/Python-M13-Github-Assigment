@@ -1,5 +1,0 @@
-README.md
-print ("Hello")
-print("My name is ")
-print("Hi")
-
