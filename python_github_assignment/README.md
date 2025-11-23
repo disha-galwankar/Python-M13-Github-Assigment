@@ -4,10 +4,9 @@ Description: This spending tracker essentially takes an input of someone's month
 
 In order to run the assignment, type:
 cd c:\Users\disha\OneDrive\Desktop\python_github_assignment
-# and then
-python app.py 
-# or
-python3 app.py
+
+Next, type: 
+python app.py or python3 app.py
 
 Sample Output:
 
